@@ -70,4 +70,3 @@ fs.readFile('.\\day4_file.txt', 'utf8', function(err, contents) {
             contents,checkAnagrams
           ).length);         
 });
-

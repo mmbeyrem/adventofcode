@@ -121,4 +121,3 @@ function day3() {
 }
 
 console.log(day3().P2().Run(368078));
-
